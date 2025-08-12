@@ -30,7 +30,7 @@ To contribute your own solutions:
 
 If you have any questions or suggestions, feel free to open an issue or contact me.
 
-📧 **Email:** sivraamkrishnankv@gmail.com  
+📧 **Email:** varun190104@gmail.com
 
 ---
 
