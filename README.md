@@ -1,4 +1,4 @@
-# CodeChef and LeetCode Solutions
+# CodeForces and LeetCode Solutions
 
 This repository contains my solutions to various programming problems from CodeChef and LeetCode platforms. All solutions are written in Python, and each file is named after the corresponding problem for easy reference.
 
